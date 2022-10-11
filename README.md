@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @laurent
-- 🌱 I’m currently learning python to make my life easier
+- 🌱 I’m currently learning python to make my life easier. I love to remove donkey work with automation.
 
 <!---
 lariga06/lariga06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
